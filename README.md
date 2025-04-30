@@ -1,4 +1,4 @@
-# Data Science and Machine Learning Examples by Sevinj
+# Data Science and Machine Learning Examples
 
 Welcome to my collection of hands-on data science, machine learning, and visualization projects! This repository contains a variety of projects and datasets that I've worked on to improve my skills and showcase my work in different areas of data analysis and model building.
 
